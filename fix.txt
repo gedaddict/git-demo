@@ -1,3 +1,5 @@
 additional fix for issue 2
 
 add java doc
+
+add new dependency
