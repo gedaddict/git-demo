@@ -7,3 +7,5 @@ add new button
 add new label
 
 add select
+
+disable submit form
