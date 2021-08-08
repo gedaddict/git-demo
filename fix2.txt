@@ -1,1 +1,3 @@
 fix related to fix 1
+
+create home page
