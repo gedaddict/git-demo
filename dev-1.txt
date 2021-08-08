@@ -1,3 +1,9 @@
 Initial dev file to simulate 1st commit in dev.
 
+
 new fix applied
+
+this is another fix.
+
+applying new fix in dev.
+
