@@ -1,3 +1,4 @@
 initial sample.txt
 
-update from local
+
+simulate code conflict in dev
