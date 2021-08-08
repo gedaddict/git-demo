@@ -1,3 +1,5 @@
 initial dev file to simulate 1st commit in dev.
 
 this is another fix.
+
+applying new fix in dev.
